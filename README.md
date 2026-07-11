@@ -1,2 +1,2 @@
-# calculator
-A simple and efficient project built to demonstrate functionality and clean code.
+# CODSOFT-Calculator
+CodSoft Web Development Internship - Level 1 Task 3 Calculator
